@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(name='apispec-swaggerinherit',
-      version='1.0.0',
-      license='GPLv3',
+      version='1.0.1',
+      license='LGPLv3',
       description='Plugin for apispec adding support for Swagger-style '
                   'inheritance using `allOf`',
       author='Tim Schumacher',
